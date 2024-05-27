@@ -8,7 +8,7 @@ Ce projet a pour objectif de développer un système de radar capable de détect
 - Avertir et éviter le désagréments des usagers.
 - Impact environnemental " pollution atmosphérique"
   
-# Matériels utilisés
+# Matériaux utilisés
 Notre projet est basé sur une carte Arduino, des radars, et des capteurs de luminosité.
 
 # Partie informatique :
